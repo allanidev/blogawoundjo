@@ -9,27 +9,27 @@
                     <!-- post -->
                     <div class="post post-carousel">
                       <div class="thumb rounded">
-                      <!--   <a href="category.html" class="category-badge position-absolute">Lire plus</a> -->
+                        <a href="category.html" class="category-badge position-absolute">Lire plus</a>
                         <a href="blog-single.html">
                           <div class="inner">
                             <img src="assets/images/widgets/widget-carousel-1.jpg" alt="post-title" />
                           </div>
                         </a>
                       </div>
-                      <h5 class="post-title mb-0 mt-4"><a href="blog-single.html">Ces partenaires qui accompagne la mutuelle</a></h5>
+                      <h5 class="post-title mb-0 mt-4 text-center "><a href="blog-single.html">Nos partenaires qui accompagne la mutuelle</a></h5>
                      
                     </div>
                     <!-- post -->
                     <div class="post post-carousel">
                       <div class="thumb rounded">
-                        <!-- <a href="category.html" class="category-badge position-absolute">Trending</a -->
+                        <a href="category.html" class="category-badge position-absolute">Voir plus</a>
                         <a href="blog-single.html">
                           <div class="inner">
                             <img src="assets/images/widgets/widget-carousel-2.jpg" alt="post-title" />
                           </div>
                         </a>
                       </div>
-                      <h5 class="post-title mb-0 mt-4"><a href="blog-single.html"></a></h5>
+                      <h5 class="post-title mb-0 mt-4 text-center "><a href="blog-single.html">Nos partenaires qui accompagne la mutuelle</a></h5>
                       <!-- <ul class="meta list-inline mt-2 mb-0">
                         <li class="list-inline-item"><a href="#">Katen Doe</a></li>
                         <li class="list-inline-item">29 March 2021</li>
@@ -38,14 +38,14 @@
                     <!-- post -->
                     <div class="post post-carousel">
                       <div class="thumb rounded">
-                        <!-- < href="category.html" class="category-badge position-absolute">How to</ -->
+                        <a  href="category.html" class="category-badge position-absolute">Voir plus</a>
                         <a href="blog-single.html">
                           <div class="inner">
                             <img src="assets/images/widgets/widget-carousel-1.jpg" alt="post-title" />
                           </div>
                         </a>
                       </div>
-                      <h5 class="post-title mb-0 mt-4"><a href="blog-single.html"></a></h5>
+                      <h5 class="post-title mb-0 mt-4 text-center "><a href="blog-single.html">Nos partenaires qui accompagne la mutuelle</a></h5>
                       <!-- <ul class="meta list-inline mt-2 mb-0">
                         <li class="list-inline-item"><a href="#">Katen Doe</a></li>
                         <li class="list-inline-item">29 March 2021</li>

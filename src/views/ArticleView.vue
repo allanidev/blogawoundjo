@@ -14,7 +14,7 @@
 						</div>
 						<!-- featured image -->
 						<div class="featured-image">
-							<img src="assets/images/posts/featured-lg.jpg" alt="post-title" />
+							<img src="assets/images/posts/carte.png" alt="post-title" />
 						</div>
 						<!-- post content -->
 						<div class="post-content clearfix">
@@ -23,13 +23,13 @@
 							<p>Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it <mark>would be</mark> necessary to have uniform grammar, pronunciation and more common words.</p>
 
 							<figure class="figure">
-								<img src="assets/images/posts/post-lg-2.jpg" class="figure-img img-fluid rounded" alt="...">
+								<img src="assets/images/posts/visa.png" class="figure-img img-fluid rounded" alt="...">
 								<figcaption class="figure-caption text-center">A caption for the above image.</figcaption>
 							</figure>
 
 							<p>The languages only differ in their grammar, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable.</p> 
 							
-							<img src="assets/images/posts/single-sm-1.jpg" class="rounded alignleft" alt="...">
+							<img src="assets/images/posts/img.png" class="rounded alignleft" alt="...">
 							<p>One could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words.</p>
 
 							<p>If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing <a href="#">European languages</a>. It will be as simple as Occidental; in fact, it will be Occidental.</p>
@@ -92,7 +92,7 @@
 
 					<!-- section header -->
 					<div class="section-header">
-						<h3 class="section-title">Comments (3)</h3>
+						<h3 class="section-title">Commentaires (3)</h3>
 						<img src="assets/images/wave.svg" class="wave" alt="wave" />
 					</div>
 					<!-- post comments -->
@@ -108,7 +108,19 @@
 									<h4 class="name"><a href="#">John Doe</a></h4>
 									<span class="date">Jan 08, 2021 14:41 pm</span>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae odio ut tortor fringilla cursus sed quis odio.</p>
-									<a href="#" class="btn btn-default btn-sm">Reply</a>
+									
+										<div class="mb-3">
+											
+											<div class="d-flex btn btn-default btn-sm w-50 justify-content-between ">
+												<span href="#" class=" animate__animated animate__rotateIn animate__slow animate__infinite	infinite " style="font-size:20px;">🤣</span>
+												<span href="#" class="animate__animated animate__rubberBand animate__slow animate__infinite	infinitee" style="font-size:20px;">😱</span>
+												<span href="#" class="animate__animated animate__heartBeat animate__slow animate__infinite	infinite" style="font-size:20px;">🤍</span>
+												<span href="#" class="animate__animated animate__tada animate__slow animate__infinite	infinite" style="font-size:20px;">👍</span>
+												<span href="#" class=" animate__animated animate__swing animate__rubberBand animate__slow animate__infinite	infinite" style="font-size:20px;">👎</span>
+											</div>
+										</div>
+									
+									<!-- <a href="#" class="btn btn-default btn-sm">Répondre</a> -->
 								</div>
 							</li>
 							<!-- comment item -->
@@ -120,7 +132,16 @@
 									<h4 class="name"><a href="#">Helen Doe</a></h4>
 									<span class="date">Jan 08, 2021 14:41 pm</span>
 									<p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.</p>
-									<a href="#" class="btn btn-default btn-sm">Reply</a>
+									<div class="mb-3">
+											
+											<div class="d-flex btn btn-default btn-sm w-50 justify-content-between ">
+												<span href="#" class=" animate__animated animate__rotateIn animate__slow animate__infinite	infinite " style="font-size:20px;">🤣</span>
+												<span href="#" class="animate__animated animate__rubberBand animate__slow animate__infinite	infinitee" style="font-size:20px;">😱</span>
+												<span href="#" class="animate__animated animate__heartBeat animate__slow animate__infinite	infinite" style="font-size:20px;">🤍</span>
+												<span href="#" class="animate__animated animate__tada animate__slow animate__infinite	infinite" style="font-size:20px;">👍</span>
+												<span href="#" class=" animate__animated animate__swing animate__rubberBand animate__slow animate__infinite	infinite" style="font-size:20px;">👎</span>
+											</div>
+										</div>
 								</div>
 							</li>
 							<!-- comment item -->
@@ -132,7 +153,16 @@
 									<h4 class="name"><a href="#">Anna Doe</a></h4>
 									<span class="date">Jan 08, 2021 14:41 pm</span>
 									<p>Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.</p>
-									<a href="#" class="btn btn-default btn-sm">Reply</a>
+									<div class="mb-3">
+											
+											<div class="d-flex btn btn-default btn-sm w-50 justify-content-between ">
+												<span href="#" class=" animate__animated animate__rotateIn animate__slow animate__infinite	infinite " style="font-size:20px;">🤣</span>
+												<span href="#" class="animate__animated animate__rubberBand animate__slow animate__infinite	infinitee" style="font-size:20px;">😱</span>
+												<span href="#" class="animate__animated animate__heartBeat animate__slow animate__infinite	infinite" style="font-size:20px;">🤍</span>
+												<span href="#" class="animate__animated animate__tada animate__slow animate__infinite	infinite" style="font-size:20px;">👍</span>
+												<span href="#" class=" animate__animated animate__swing animate__rubberBand animate__slow animate__infinite	infinite" style="font-size:20px;">👎</span>
+											</div>
+										</div>
 								</div>
 							</li>
 						</ul>
@@ -142,7 +172,7 @@
 
 					<!-- section header -->
 					<div class="section-header">
-						<h3 class="section-title">Leave Comment</h3>
+						<h3 class="section-title">Ecrire un Commentaire</h3>
 						<img src="assets/images/wave.svg" class="wave" alt="wave" />
 					</div>
 					<!-- comment form -->
@@ -157,34 +187,34 @@
 								<div class="column col-md-12">
 									<!-- Comment textarea -->
 									<div class="form-group">
-										<textarea name="InputComment" id="InputComment" class="form-control" rows="4" placeholder="Your comment here..." required="required"></textarea>
+										<textarea name="InputComment" id="InputComment" class="form-control" rows="4" placeholder="Votre commentaire..." required="required"></textarea>
 									</div>
 								</div>
 
 								<div class="column col-md-6">
 									<!-- Email input -->
 									<div class="form-group">
-										<input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Email address" required="required">
+										<input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Adresse Email" required="required">
 									</div>
 								</div>
 
 								<div class="column col-md-6">
 									<!-- Name input -->
 									<div class="form-group">
-										<input type="text" class="form-control" name="InputWeb" id="InputWeb" placeholder="Website" required="required">
+										<input type="number" class="form-control" name="InputWeb" id="InputWeb" placeholder="Contact" required="required">
 									</div>
 								</div>
 	
 								<div class="column col-md-12">
 									<!-- Email input -->
 									<div class="form-group">
-										<input type="text" class="form-control" id="InputName" name="InputName" placeholder="Your name" required="required">
+										<input type="text" class="form-control" id="InputName" name="InputName" placeholder="Votre Nom & Prénom" required="required">
 									</div>
 								</div>
 						
 							</div>
 	
-							<button type="submit" name="submit" id="submit" value="Submit" class="btn btn-default">Submit</button><!-- Submit Button -->
+							<button type="submit" name="submit" id="submit" value="Submit" class="btn btn-default">Envoyer</button><!-- Submit Button -->
 	
 						</form>
 					</div>

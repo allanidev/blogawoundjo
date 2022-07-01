@@ -64,11 +64,11 @@
     <!-- content -->
     <div class="search-content">
       <div class="text-center">
-        <h3 class="mb-4 mt-0">Press ESC to close</h3>
+        <h3 class="mb-4 mt-0">Appuyez sur ESC pour fermer</h3>
       </div>
       <!-- form -->
       <form class="d-flex search-form">
-        <input class="form-control me-2" type="search" placeholder="Search and press enter ..." aria-label="Search">
+        <input class="form-control me-2" type="search" placeholder="Rechercher un article ..." aria-label="Search">
         <button class="btn btn-default btn-lg" type="submit"><i class="icon-magnifier"></i></button>
       </form>
     </div>

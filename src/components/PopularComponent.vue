@@ -1,7 +1,7 @@
 <template>
    <div class="widget rounded">
                 <div class="widget-header text-center">
-                  <h3 class="widget-title">Article Populaire</h3>
+                  <h3 class="widget-title">Articles Populaires</h3>
                   <img src="assets/images/wave.svg" class="wave" alt="wave" />
                 </div>
                 <div class="widget-content">
@@ -16,7 +16,7 @@
                       </a>
                     </div>
                     <div class="details clearfix">
-                      <h6 class="post-title my-0"><a href="blog-single.html">3 artcles très intéressants</a></h6>
+                      <h6 class="post-title my-0"><a href="blog-single.html">3 Artcles très intéressants</a></h6>
                       <ul class="meta list-inline mt-1 mb-0">
                         <li class="list-inline-item">29 Mars 2021</li>
                       </ul>
@@ -33,7 +33,7 @@
                       </a>
                     </div>
                     <div class="details clearfix">
-                      <h6 class="post-title my-0"><a href="blog-single.html">information sur la mutuelle de santé awoundjo</a></h6>
+                      <h6 class="post-title my-0"><a href="blog-single.html">Information sur la mutuelle de santé awoundjo</a></h6>
                       <ul class="meta list-inline mt-1 mb-0">
                         <li class="list-inline-item">29 Mars 2021</li>
                       </ul>
@@ -50,7 +50,7 @@
                       </a>
                     </div>
                     <div class="details clearfix">
-                      <h6 class="post-title my-0"><a href="blog-single.html">etres informé de touts nos offres</a></h6>
+                      <h6 class="post-title my-0"><a href="blog-single.html">Etres informé de touts nos offres</a></h6>
                       <ul class="meta list-inline mt-1 mb-0">
                         <li class="list-inline-item">29 Avril 2021</li>
                       </ul>
